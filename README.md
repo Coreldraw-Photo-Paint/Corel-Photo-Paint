@@ -37,7 +37,7 @@ Keep a recoverable working document before flattening or exporting a delivery co
 - Compare the composition at both working zoom and intended display size.
 - Check the effect of every major adjustment on skin, fabric, and fine texture.
 
-![Object-based photo composition with a masked subject and separate correction elements](ets/p0.jpg)
+![Object-based photo composition with a masked subject and separate correction elements](etc/p0.jpg)
 
 Mask quality often determines whether a composite looks convincing.
 Look for abrupt transitions around soft edges and unwanted color from the old background.
@@ -84,7 +84,7 @@ Other supplied files show how that editor stores defaults and interface styling:
 These files are comparison material for workspace design.
 Do not import them as PHOTO-PAINT presets or edit them expecting to change Corel preferences.
 
-![Retouching workspace with brush controls and a close view of a refined mask edge](ets/p1.png)
+![Retouching workspace with brush controls and a close view of a refined mask edge](etc/p1.png)
 
 ## Using
 
